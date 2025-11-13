@@ -1,0 +1,1 @@
+export interface Memory { id: string; text: string; date: string; }

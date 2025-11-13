@@ -1,0 +1,1 @@
+console.log('AfterMe mobile app placeholder');

@@ -1,1 +1,1 @@
-# Afterme
+# AfterMe Web Demo\nRun `npm run dev` here once dependencies installed.
